@@ -16,7 +16,7 @@
         "en": "Apply Attack+ to this Axie if its shield breaks."
     },
     "aquatic-back-10": {
-        "th": "โจมตีและฮีลเพิ่ม HP +50 ตามจำนวนชิ้นส่วน Axie ที่เป็น Anemone",
+        "th": "เมื่อโจมตีสำเร็จ ฮีลเพิ่ม HP +50 ตามจำนวนชิ้นส่วน Axie ที่เป็น Anemone",
         "en": "Successful attacks restore 50 HP for each Anemone part this Axie posseses."
     },
     "aquatic-back-12": {
@@ -48,11 +48,11 @@
         "en": "Target cannot enter Last Stand if this card brings its HP to zero."
     },
     "aquatic-mouth-02": {
-        "th": "เพิ่มพลังโจมตี ของการ์ดนี้ +120% เมื่อน้อง HP ต่ำกว่า 50%",
+        "th": "เพิ่มพลังโจมตี ของการ์ดนี้ +120% เมื่อน้องที่ใช้การืดนี่มี HP ต่ำกว่า 50%",
         "en": "Deal 120% damage if this Axie's HP is below 50%."
     },
     "aquatic-mouth-04": {
-        "th": "ฮีล +HP ตามพลังโจมตี ของการ์ดนี้ ที่ทำได้",
+        "th": "ฮีล +HP ตามความเสียหาย ที่การ์ดใบนี้ทำได้",
         "en": "Heal this Axie by the damage inflicted with this card."
     },
     "aquatic-mouth-08": {
@@ -160,7 +160,7 @@
         "en": "Steal 1 energy from your opponent when comboed with another card."
     },
     "beast-tail-06": {
-        "th": "เพิ่ม Morale +20% ให้กับทีม 2 ตา เมื่อ Axie นี้ติด Last Stand",
+        "th": "เพิ่ม Morale +20% ให้กับทีม 2 ตา ถ้าน้องทำการโจมตีโดยที่ติด Last Stand",
         "en": "Apply Morale+ to your team for 2 rounds if this Axie attacks while in Last Stand."
     },
     "beast-tail-08": {
@@ -224,7 +224,7 @@
         "en": "Deal 120% damage when chained with another \"Lunge\" card."
     },
     "bird-mouth-02": {
-        "th": "ทำให้ศัตรูติดสถานะ Sleep",
+        "th": "ทำให้ศัตรูติดสถานะ Sleep (การโจมตีนี้และการโจมตีถัดไปจะทะลุเกราะ)",
         "en": "Apply Sleep to target."
     },
     "bird-mouth-04": {
@@ -244,7 +244,7 @@
         "en": "Deal 120% damage if this Axie attacks first."
     },
     "bird-tail-04": {
-        "th": "เมื่อโดน Debuff จะเพิ่มเกราะ Debuff ละ +20 (ติดผิษ 5 ที ได้เกราะเพิ่ม +100)",
+        "th": "เมื่อโดน Debuff จะเพิ่มเกราะ Debuff ละ +20 (ติดพิษ 5 ที ได้เกราะเพิ่ม +100)",
         "en": "Add 20% shield to this Axie for each debuff it possesses."
     },
     "bird-tail-06": {
@@ -260,15 +260,15 @@
         "en": "Apply Chill to target for 2 rounds."
     },
     "bird-tail-12": {
-        "th": "ลด HP 30% เมื่อโจมตีสำเร็จ",
+        "th": "ลด HP ตัวเอง 30% เมื่อโจมตีสำเร็จ",
         "en": "Inflict 30% of this Axie's max HP to itself."
     },
     "bug-back-02": {
-        "th": "Stun ศัตรู เมื่อเกราะแตก มีผล 1 ครั้งต่อ 1 ตา",
+        "th": "Stun ศัตรู เมื่อเกราะของน้องที่ใช้การืดนี้แตก มีผล 1 ครั้งต่อ 1 ตา",
         "en": "Stun attacker if this Axie’s shield breaks. Can only trigger once per round."
     },
     "bug-back-04": {
-        "th": "โจมตีด้วยยาพิษ เมื่อ Axie ในทีม ใช้การ์ด Bug ",
+        "th": "แปะสถานะ พิษ ไว้ 2 hit เมื่อ Axie ในทีม ใช้การ์ด Bug ",
         "en": "Apply 2 poison to target when played in a chain."
     },
     "bug-back-06": {
@@ -304,7 +304,7 @@
         "en": "Deal 30% more damage to shielded targets."
     },
     "bug-horn-10": {
-        "th": "แย่งการ์ดบนมือศัตรู แล้วโยนทิ้ง 1 ใบ แบบสุ่ม",
+        "th": "สุ่มทิ้งการ์ดบนมือของศัตรู 1 ใบ",
         "en": "Randomly discard 1 card from your enemy's hand."
     },
     "bug-horn-12": {
@@ -312,11 +312,11 @@
         "en": "Gain 1 energy when comboed with a plant card."
     },
     "bug-mouth-02": {
-        "th": "ดูดเลือดศัตรู เพิ่ม +HP ของ Axie ตามพลังโจมตีที่ทำได้",
+        "th": "ฮีล +HP ตามความเสียหาย ที่การ์ดใบนี้ทำได้",
         "en": "Heal this Axie by the damage inflicted with this card."
     },
     "bug-mouth-04": {
-        "th": "แย่งการ์ดบนมือศัตรู โยนทิ้ง 1 ใบ แบบสุ่ม",
+        "th": "สุ่มทิ้งการ์ดบนมือของศัตรู 1 ใบ",
         "en": "Randomly discard 1 card from your enemy's hand."
     },
     "bug-mouth-08": {
@@ -336,15 +336,15 @@
         "en": "Attack twice when comboed with another card."
     },
     "bug-tail-06": {
-        "th": "ทำให้ Axie เผ่า Aqua, Bird ติด Stun เมื่อ Axie โดนโจมตี มีผล 1 ครั้งต่อตา",
+        "th": "ทำให้ Axie ที่ใช้การ์ดเผ่า Aqua, Bird โจมตี Axie ตัวนี้ ติด Stun  มีผล 1 ครั้งต่อตา",
         "en": "Apply stun when struck by Aquatic or Bird class cards. Can only trigger once per round."
     },
     "bug-tail-08": {
-        "th": "ทำให้ศัตรู ใช้การ์ด โจมตีละยะใกล้ไม่ได้ ในตาต่อไป",
+        "th": "ทำให้ศัตรู ใช้การ์ด โจมตีระยะใกล้ไม่ได้ ในตาต่อไป",
         "en": "Disable target's melee cards next round."
     },
     "bug-tail-10": {
-        "th": "พลังโจมตี +200% เมื่อติดอยู่ใน Last Stand และ Axie นี้จะตายทันที เมื่อโจมตี",
+        "th": "พลังโจมตี +200% เมื่อติดอยู่ใน Last Stand และ Axie นี้จะตายทันที หลังโจมตีเสร็จ",
         "en": "Deal 200% damage when attacking in Last stand. Axie's Last Stand ends after it attacks."
     },
     "bug-tail-12": {
@@ -356,7 +356,7 @@
         "en": "Target a bird if comboed with 2 or more cards."
     },
     "plant-back-04": {
-        "th": "เพิ่ม HP +250",
+        "th": "เพิ่ม HP +120",
         "en": "Heal this Axie for 120 HP."
     },
     "plant-back-06": {
@@ -404,11 +404,11 @@
         "en": "Steal 1 energy from your opponent when comboed with another card."
     },
     "plant-mouth-04": {
-        "th": "ฮีลตัวเอง ตามพลังโจมตี ที่ทำได้ของการ์ดนี้",
+        "th": "ฮีลตัวเอง ตามความเสียหายที่ทำได้ ของการ์ดนี้",
         "en": "Heal this Axie by the damage this card inflicts."
     },
     "plant-mouth-08": {
-        "th": "ฮีลตามพลังโจมตี ทำทำได้ของการ์ดนี้ เมื่อโจมตี Axie ที่เป็น Plant",
+        "th": "ฮีลตามความเสียหาย ทำทำได้ของการ์ดนี้ เมื่อโจมตี Axie ที่เป็น Plant",
         "en": "Heal this Axie by the damage this card inflicts on a Plant target."
     },
     "plant-mouth-10": {
@@ -432,7 +432,7 @@
         "en": "Apply poison each time this card is used to attack or defend."
     },
     "plant-tail-10": {
-        "th": "ศัตรูที่ใช้การ์ด Aqua โจมตีเป็นใบแรก จะไม่โจมตี Axie ตัวนี้ แต่จะโจมตีตัวหลังแทน",
+        "th": "Axie ตัวนี้จะไม่ตกเป็นเป้าหมาย ถ้าอีกฝั่งโจมตีด้วยการ์ดเผ่า Aqua โดยจะทำงานถ้ามีตัวอื่นให้ตีเท่านั้น",
         "en": "Cannot be targeted by Aquatic cards if this Axie has teammates remaining."
     },
     "plant-tail-12": {
@@ -516,7 +516,7 @@
         "en": "Deal 150% damage after round 4."
     },
     "reptile-tail-08": {
-        "th": "การโจมตีที่ทำให้ Axie ตัวนี้ เกราะแตก จะทำให้ไม่โดนดาเมจ",
+        "th": "การโจมตีที่ทำให้ Axie ตัวนี้ เกราะแตก จะทำให้ไม่โดนดาเมจเกินกว่าเกราะ",
         "en": "Attacks that break this Axie’s shield cannot do additional damage. Can only trigger once per round."
     },
     "reptile-tail-10": {
@@ -524,7 +524,7 @@
         "en": "Apply Attack- to poisoned targets."
     },
     "reptile-tail-12": {
-        "th": "ปล่อยพิษใส่ ศัตรู",
+        "th": "ปล่อยพิษใส่ ศัตรู 2 hit",
         "en": "Apply 2 Poison to target."
     }
 }
